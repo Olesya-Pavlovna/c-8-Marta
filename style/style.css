@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -6,7 +6,7 @@
 
 body {
 	height: 100%;
-	font-family: 'Satisfy', cursive;
+	font-family: 'Pangolin', cursive;
 	margin: 0 auto;
 	max-width: 1300px;
 	background-color:white;	
